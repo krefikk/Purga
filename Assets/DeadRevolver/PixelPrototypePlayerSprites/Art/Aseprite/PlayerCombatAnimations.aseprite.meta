@@ -2612,6 +2612,7 @@ ScriptedImporter:
     cells:
     - name: PlayerCombatAnimations_Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 32
         y: 0
@@ -2620,6 +2621,7 @@ ScriptedImporter:
       spriteId: 0c9387e4f812f5641bf22ce8ee772260
     - name: PlayerCombatAnimations_Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 33
         y: 0
@@ -2628,6 +2630,7 @@ ScriptedImporter:
       spriteId: 979dcc583ca6ad34eaf4b84cb2360e91
     - name: PlayerCombatAnimations_Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 0
@@ -2636,6 +2639,7 @@ ScriptedImporter:
       spriteId: 61914f03d7fda0f4993ba8bffe89118f
     - name: PlayerCombatAnimations_Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 30
         y: 0
@@ -2644,6 +2648,7 @@ ScriptedImporter:
       spriteId: 855975cb8a4cc5449a779ab5ffe042f8
     - name: PlayerCombatAnimations_Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 0
@@ -2652,6 +2657,7 @@ ScriptedImporter:
       spriteId: 34f63fa5172a8a9489266a9122913db8
     - name: PlayerCombatAnimations_Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -2660,6 +2666,7 @@ ScriptedImporter:
       spriteId: 6d048176519aa2f45a125446c6896621
     - name: PlayerCombatAnimations_Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 45
         y: 0
@@ -2668,6 +2675,7 @@ ScriptedImporter:
       spriteId: 8f39fe724adfede4d890a4a0c4b87782
     - name: PlayerCombatAnimations_Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 45
         y: 0
@@ -2676,6 +2684,7 @@ ScriptedImporter:
       spriteId: f8a916ff9504cc745b907beb6b843cf8
     - name: PlayerCombatAnimations_Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 0
@@ -2684,6 +2693,7 @@ ScriptedImporter:
       spriteId: eab14c8a0244cb5428f641b588ef5108
     - name: PlayerCombatAnimations_Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 29
         y: 0
@@ -2692,6 +2702,7 @@ ScriptedImporter:
       spriteId: 708a1add9f9e0cd479e1b662bebb6497
     - name: PlayerCombatAnimations_Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 0
@@ -2700,6 +2711,7 @@ ScriptedImporter:
       spriteId: a0f774024679f8c4db0ad075e69c46cd
     - name: PlayerCombatAnimations_Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 13
         y: 0
@@ -2708,6 +2720,7 @@ ScriptedImporter:
       spriteId: a342658349954334ba0bf9009171d517
     - name: PlayerCombatAnimations_Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -2716,6 +2729,7 @@ ScriptedImporter:
       spriteId: a9b03b031c81cc3429a74a996c9ecc79
     - name: PlayerCombatAnimations_Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -2724,6 +2738,7 @@ ScriptedImporter:
       spriteId: 89405fedac4684747aceea5e82803ea7
     - name: PlayerCombatAnimations_Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -2732,6 +2747,7 @@ ScriptedImporter:
       spriteId: 0b6b2372b476fe2458d55fb988a9e99d
     - name: PlayerCombatAnimations_Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -2740,6 +2756,7 @@ ScriptedImporter:
       spriteId: 45ed2aea5733ccc4abf88dba22d8a55e
     - name: PlayerCombatAnimations_Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 0
@@ -2748,6 +2765,7 @@ ScriptedImporter:
       spriteId: 2f203503dfde4cd43a72937d79767e97
     - name: PlayerCombatAnimations_Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 33
         y: 0
@@ -2756,6 +2774,7 @@ ScriptedImporter:
       spriteId: e565e22ac0c63e14fbe18c4326d824db
     - name: PlayerCombatAnimations_Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 30
         y: 0
@@ -2764,6 +2783,7 @@ ScriptedImporter:
       spriteId: b40d35bc83eb5c04f8aab64aeaf24bdc
     - name: PlayerCombatAnimations_Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 46
         y: 0
@@ -2772,6 +2792,7 @@ ScriptedImporter:
       spriteId: ad5b9c421f23c964e8f52dda7c9c5c42
     - name: PlayerCombatAnimations_Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: 45
         y: 0
@@ -2780,6 +2801,7 @@ ScriptedImporter:
       spriteId: 4ad20a04ef534bd4a90d91a4b2b22aaf
     - name: PlayerCombatAnimations_Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: 45
         y: 0
@@ -2788,6 +2810,7 @@ ScriptedImporter:
       spriteId: f8913d1670ae045459aba80ccdcda5f3
     - name: PlayerCombatAnimations_Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 0
@@ -2796,6 +2819,7 @@ ScriptedImporter:
       spriteId: 95998be3a0648c64da7d14e82b374c16
     - name: PlayerCombatAnimations_Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: 30
         y: 0
@@ -2804,6 +2828,7 @@ ScriptedImporter:
       spriteId: c6bfb081e24269045b391f87a106247a
     - name: PlayerCombatAnimations_Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 0
@@ -2812,6 +2837,7 @@ ScriptedImporter:
       spriteId: 43f61dce2b7423b4985d38897b51f743
     - name: PlayerCombatAnimations_Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 0
@@ -2820,6 +2846,7 @@ ScriptedImporter:
       spriteId: f77b855772e81f64b8e1528a83905ab9
     - name: PlayerCombatAnimations_Frame_26
       frameIndex: 26
+      additiveSortOrder: 0
       cellRect:
         x: 15
         y: 0
@@ -2828,6 +2855,7 @@ ScriptedImporter:
       spriteId: aebed16db340c694f91b7bad4266e4a3
     - name: PlayerCombatAnimations_Frame_27
       frameIndex: 27
+      additiveSortOrder: 0
       cellRect:
         x: 17
         y: 0
@@ -2836,6 +2864,7 @@ ScriptedImporter:
       spriteId: 31c32218478e56f44913f7fd05b601a6
     - name: PlayerCombatAnimations_Frame_28
       frameIndex: 28
+      additiveSortOrder: 0
       cellRect:
         x: 27
         y: 0
@@ -2844,6 +2873,7 @@ ScriptedImporter:
       spriteId: ae1f2b9036ee1c146892645b5fd2bb30
     - name: PlayerCombatAnimations_Frame_29
       frameIndex: 29
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 0
@@ -2852,6 +2882,7 @@ ScriptedImporter:
       spriteId: 6a5c9406f7ac5c846b6a1032aac96ff6
     - name: PlayerCombatAnimations_Frame_30
       frameIndex: 30
+      additiveSortOrder: 0
       cellRect:
         x: 48
         y: 0
@@ -2860,6 +2891,7 @@ ScriptedImporter:
       spriteId: 3739e56b1604a1840af67decf63a5632
     - name: PlayerCombatAnimations_Frame_31
       frameIndex: 31
+      additiveSortOrder: 0
       cellRect:
         x: 49
         y: 0
@@ -2868,6 +2900,7 @@ ScriptedImporter:
       spriteId: 5162b1723d7a95d4f8a268c46e2d1f4a
     - name: PlayerCombatAnimations_Frame_32
       frameIndex: 32
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -2876,6 +2909,7 @@ ScriptedImporter:
       spriteId: ff91a8f5aa98eab4f91fcd332176c15a
     - name: PlayerCombatAnimations_Frame_33
       frameIndex: 33
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -2884,6 +2918,7 @@ ScriptedImporter:
       spriteId: 46466323a6968064490bc7e0409ff4d1
     - name: PlayerCombatAnimations_Frame_34
       frameIndex: 34
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -2892,6 +2927,7 @@ ScriptedImporter:
       spriteId: e9fe168243886d14c9434160400bbcf0
     - name: PlayerCombatAnimations_Frame_35
       frameIndex: 35
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -2900,6 +2936,7 @@ ScriptedImporter:
       spriteId: b432eec41726ddc40ae057d6b25ff99f
     - name: PlayerCombatAnimations_Frame_36
       frameIndex: 36
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 1
@@ -2908,6 +2945,7 @@ ScriptedImporter:
       spriteId: f25ec7e152a88e4498115a7ce708065f
     - name: PlayerCombatAnimations_Frame_37
       frameIndex: 37
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 2
@@ -2916,6 +2954,7 @@ ScriptedImporter:
       spriteId: 8c8dc21585f85eb438af13e664d2c7a7
     - name: PlayerCombatAnimations_Frame_38
       frameIndex: 38
+      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 4
@@ -2924,6 +2963,7 @@ ScriptedImporter:
       spriteId: 37f1ab256c114fe4c909178e4c7d4d7e
     - name: PlayerCombatAnimations_Frame_39
       frameIndex: 39
+      additiveSortOrder: 0
       cellRect:
         x: 29
         y: 0
@@ -2932,6 +2972,7 @@ ScriptedImporter:
       spriteId: 0ec87e1507d18ab44ab87e194791530e
     - name: PlayerCombatAnimations_Frame_40
       frameIndex: 40
+      additiveSortOrder: 0
       cellRect:
         x: 28
         y: 0
@@ -2940,6 +2981,7 @@ ScriptedImporter:
       spriteId: 2446edafc77a2da43ad46edc2f80510c
     - name: PlayerCombatAnimations_Frame_41
       frameIndex: 41
+      additiveSortOrder: 0
       cellRect:
         x: 28
         y: 0
@@ -2948,6 +2990,7 @@ ScriptedImporter:
       spriteId: 9005d115bfc9f824daad81d678af97e8
     - name: PlayerCombatAnimations_Frame_42
       frameIndex: 42
+      additiveSortOrder: 0
       cellRect:
         x: 35
         y: 0
@@ -2956,6 +2999,7 @@ ScriptedImporter:
       spriteId: fbb1352d048a93148a0ab5bc33982354
     - name: PlayerCombatAnimations_Frame_43
       frameIndex: 43
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -2964,6 +3008,7 @@ ScriptedImporter:
       spriteId: 46d5b13786da95645b99c29390ce98b1
     - name: PlayerCombatAnimations_Frame_44
       frameIndex: 44
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 0
@@ -2972,6 +3017,7 @@ ScriptedImporter:
       spriteId: eaf9507459428a04f8e07b7dc0bc4ff7
     - name: PlayerCombatAnimations_Frame_45
       frameIndex: 45
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 0
@@ -2980,6 +3026,7 @@ ScriptedImporter:
       spriteId: 86228bd962bc52c46a4cf1394bbe4171
     - name: PlayerCombatAnimations_Frame_46
       frameIndex: 46
+      additiveSortOrder: 0
       cellRect:
         x: 27
         y: 0
@@ -2988,6 +3035,7 @@ ScriptedImporter:
       spriteId: abea551cb37176440bf95543aeced0e2
     - name: PlayerCombatAnimations_Frame_47
       frameIndex: 47
+      additiveSortOrder: 0
       cellRect:
         x: 30
         y: 0
@@ -2996,6 +3044,7 @@ ScriptedImporter:
       spriteId: ff6b4b082d476d34b8d449f29493b4a5
     - name: PlayerCombatAnimations_Frame_48
       frameIndex: 48
+      additiveSortOrder: 0
       cellRect:
         x: 30
         y: 0
@@ -3004,6 +3053,7 @@ ScriptedImporter:
       spriteId: 8fc326a1366974d47ab7e9a4d20df62a
     - name: PlayerCombatAnimations_Frame_49
       frameIndex: 49
+      additiveSortOrder: 0
       cellRect:
         x: 30
         y: 0
@@ -3012,6 +3062,7 @@ ScriptedImporter:
       spriteId: 025489f44cd5c3248af9625d2f4a529a
     - name: PlayerCombatAnimations_Frame_50
       frameIndex: 50
+      additiveSortOrder: 0
       cellRect:
         x: 30
         y: 0
@@ -3020,6 +3071,7 @@ ScriptedImporter:
       spriteId: bcd84e1695715ee4fa6ff18f96cc69ee
     - name: PlayerCombatAnimations_Frame_51
       frameIndex: 51
+      additiveSortOrder: 0
       cellRect:
         x: 27
         y: 0
@@ -3028,6 +3080,7 @@ ScriptedImporter:
       spriteId: 3176afeab05a1c341a48c4748d8442c8
     - name: PlayerCombatAnimations_Frame_52
       frameIndex: 52
+      additiveSortOrder: 0
       cellRect:
         x: 29
         y: 1
@@ -3036,6 +3089,7 @@ ScriptedImporter:
       spriteId: dca2375b104369343b372bb99ea6f499
     - name: PlayerCombatAnimations_Frame_53
       frameIndex: 53
+      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 0
@@ -3044,6 +3098,7 @@ ScriptedImporter:
       spriteId: ba4e7e18d238b0b4a84e8165a84f1ff0
     - name: PlayerCombatAnimations_Frame_54
       frameIndex: 54
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 0
@@ -3052,6 +3107,7 @@ ScriptedImporter:
       spriteId: f5bb4aa4791421e458f29d97c59f8053
     - name: PlayerCombatAnimations_Frame_55
       frameIndex: 55
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 0
@@ -3060,6 +3116,7 @@ ScriptedImporter:
       spriteId: 311efee840e207f47878524769c62ede
     - name: PlayerCombatAnimations_Frame_56
       frameIndex: 56
+      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 0
@@ -3068,6 +3125,7 @@ ScriptedImporter:
       spriteId: 277b931441f830947aaf534b25095a8d
     - name: PlayerCombatAnimations_Frame_57
       frameIndex: 57
+      additiveSortOrder: 0
       cellRect:
         x: 35
         y: 0
@@ -3076,6 +3134,7 @@ ScriptedImporter:
       spriteId: 4812cd25ea59ad34cb1f19a233688cd2
     - name: PlayerCombatAnimations_Frame_58
       frameIndex: 58
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 0
@@ -3084,6 +3143,7 @@ ScriptedImporter:
       spriteId: 8d96e28b610d0ef48bacdefac1222f1d
     - name: PlayerCombatAnimations_Frame_59
       frameIndex: 59
+      additiveSortOrder: 0
       cellRect:
         x: 26
         y: 0
@@ -3092,6 +3152,7 @@ ScriptedImporter:
       spriteId: 067c058872a7caf4a8a91e75c8ea8dee
     - name: PlayerCombatAnimations_Frame_60
       frameIndex: 60
+      additiveSortOrder: 0
       cellRect:
         x: 25
         y: 0
@@ -3100,6 +3161,7 @@ ScriptedImporter:
       spriteId: dc56c1406ddad2a4e9711dfc9bf4e5f7
     - name: PlayerCombatAnimations_Frame_61
       frameIndex: 61
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -3108,6 +3170,7 @@ ScriptedImporter:
       spriteId: 5b32e047236ac504ca06a47108d8bf2c
     - name: PlayerCombatAnimations_Frame_62
       frameIndex: 62
+      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 0
@@ -3116,6 +3179,7 @@ ScriptedImporter:
       spriteId: e18ccadc42b76ed468a8318251a420a0
     - name: PlayerCombatAnimations_Frame_63
       frameIndex: 63
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3124,6 +3188,7 @@ ScriptedImporter:
       spriteId: 9743b42c932078947956a93620f109e5
     - name: PlayerCombatAnimations_Frame_64
       frameIndex: 64
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -3132,6 +3197,7 @@ ScriptedImporter:
       spriteId: d6d5420e7fa3cd546a9182da7fb45ab3
     - name: PlayerCombatAnimations_Frame_65
       frameIndex: 65
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -3140,6 +3206,7 @@ ScriptedImporter:
       spriteId: 54cab85841d5780419eea5fcb9443bdd
     - name: PlayerCombatAnimations_Frame_66
       frameIndex: 66
+      additiveSortOrder: 0
       cellRect:
         x: 24
         y: 0
@@ -3148,6 +3215,7 @@ ScriptedImporter:
       spriteId: 41bcf8f4bb19cab4d9dff7b58e18600f
     - name: PlayerCombatAnimations_Frame_67
       frameIndex: 67
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 0
@@ -3156,6 +3224,7 @@ ScriptedImporter:
       spriteId: f9a1542e47e138e4c90ed4e42cc292c3
     - name: PlayerCombatAnimations_Frame_68
       frameIndex: 68
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3164,6 +3233,7 @@ ScriptedImporter:
       spriteId: 41aaf5e76d1a1654db36ee02a77b8351
     - name: PlayerCombatAnimations_Frame_69
       frameIndex: 69
+      additiveSortOrder: 0
       cellRect:
         x: 45
         y: 0
@@ -3172,6 +3242,7 @@ ScriptedImporter:
       spriteId: 0ac72053c242e204a8d45fd4acfcdf69
     - name: PlayerCombatAnimations_Frame_70
       frameIndex: 70
+      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 0
@@ -3180,6 +3251,7 @@ ScriptedImporter:
       spriteId: 69fb242b43cd53648a624c1010cefcdb
     - name: PlayerCombatAnimations_Frame_71
       frameIndex: 71
+      additiveSortOrder: 0
       cellRect:
         x: 35
         y: 0
@@ -3188,6 +3260,7 @@ ScriptedImporter:
       spriteId: 1a18377c27abcc44a97f1857fb73fec4
     - name: PlayerCombatAnimations_Frame_72
       frameIndex: 72
+      additiveSortOrder: 0
       cellRect:
         x: 34
         y: 0
@@ -3196,6 +3269,7 @@ ScriptedImporter:
       spriteId: 7b60f54bcf7d4dd4c8f5449d5d10ab5f
     - name: PlayerCombatAnimations_Frame_73
       frameIndex: 73
+      additiveSortOrder: 0
       cellRect:
         x: 32
         y: 0
@@ -3204,6 +3278,7 @@ ScriptedImporter:
       spriteId: 72d0e5831ea649b49b359ac93c13f21c
     - name: PlayerCombatAnimations_Frame_74
       frameIndex: 74
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -3212,6 +3287,7 @@ ScriptedImporter:
       spriteId: 3c67311541c07b747a20b9e1efe20732
     - name: PlayerCombatAnimations_Frame_75
       frameIndex: 75
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 0
@@ -3220,6 +3296,7 @@ ScriptedImporter:
       spriteId: fcdbcb6c08eea6842b572bd687c811c7
     - name: PlayerCombatAnimations_Frame_76
       frameIndex: 76
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3228,6 +3305,7 @@ ScriptedImporter:
       spriteId: 9cb30d2c8a5a8c54ebf238f96b615b6a
     - name: PlayerCombatAnimations_Frame_77
       frameIndex: 77
+      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 0
@@ -3236,6 +3314,7 @@ ScriptedImporter:
       spriteId: 533294266153fa2498c2288a666a80ac
     - name: PlayerCombatAnimations_Frame_78
       frameIndex: 78
+      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 0
@@ -3244,6 +3323,7 @@ ScriptedImporter:
       spriteId: 15d711116a736ef4190b204764cedbdf
     - name: PlayerCombatAnimations_Frame_79
       frameIndex: 79
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 0
@@ -3252,6 +3332,7 @@ ScriptedImporter:
       spriteId: 7518aa131ee1ec642b4620340edb59be
     - name: PlayerCombatAnimations_Frame_80
       frameIndex: 80
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 0
@@ -3260,6 +3341,7 @@ ScriptedImporter:
       spriteId: 4dfc782b653d1d04fbfaed517e46b6ca
     - name: PlayerCombatAnimations_Frame_81
       frameIndex: 81
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 0
@@ -3268,6 +3350,7 @@ ScriptedImporter:
       spriteId: 964cb65659dc73647a6b8abff65e1966
     - name: PlayerCombatAnimations_Frame_82
       frameIndex: 82
+      additiveSortOrder: 0
       cellRect:
         x: 30
         y: 0
@@ -3276,6 +3359,7 @@ ScriptedImporter:
       spriteId: 71812833b9e087b4d8a94f80e97a008d
     - name: PlayerCombatAnimations_Frame_83
       frameIndex: 83
+      additiveSortOrder: 0
       cellRect:
         x: 32
         y: 0
@@ -3284,6 +3368,7 @@ ScriptedImporter:
       spriteId: f873c3eafa83fcd47b28d4d35d89f361
     - name: PlayerCombatAnimations_Frame_84
       frameIndex: 84
+      additiveSortOrder: 0
       cellRect:
         x: 31
         y: 0
@@ -3292,6 +3377,7 @@ ScriptedImporter:
       spriteId: 222f506e72488f94a8793e3e6f518065
     - name: PlayerCombatAnimations_Frame_85
       frameIndex: 85
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 0
@@ -3300,6 +3386,7 @@ ScriptedImporter:
       spriteId: 6ea786431bdb8cf4b9d518dcad3b8cc7
     - name: PlayerCombatAnimations_Frame_86
       frameIndex: 86
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 0
@@ -3308,6 +3395,7 @@ ScriptedImporter:
       spriteId: b48f3324a7cb3934eaf216eb7ec61119
     - name: PlayerCombatAnimations_Frame_87
       frameIndex: 87
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -3316,6 +3404,7 @@ ScriptedImporter:
       spriteId: 0030215550e201c449fc0ac9af041edd
     - name: PlayerCombatAnimations_Frame_88
       frameIndex: 88
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 0
@@ -3324,6 +3413,7 @@ ScriptedImporter:
       spriteId: 56d8cdba7d217ed49a5cc10265ac0378
     - name: PlayerCombatAnimations_Frame_89
       frameIndex: 89
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3332,6 +3422,7 @@ ScriptedImporter:
       spriteId: fa386f2ae81fdf3468657677386b043c
     - name: PlayerCombatAnimations_Frame_90
       frameIndex: 90
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3340,6 +3431,7 @@ ScriptedImporter:
       spriteId: 883d455bacafddf40beb8b68cc4e1c17
     - name: PlayerCombatAnimations_Frame_91
       frameIndex: 91
+      additiveSortOrder: 0
       cellRect:
         x: 44
         y: 23
@@ -3348,6 +3440,7 @@ ScriptedImporter:
       spriteId: 15d350544b6b4a94a86d5e26fb0a3ba4
     - name: PlayerCombatAnimations_Frame_92
       frameIndex: 92
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3356,6 +3449,7 @@ ScriptedImporter:
       spriteId: ff79757402959034fb4872b5e35deb51
     - name: PlayerCombatAnimations_Frame_93
       frameIndex: 93
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 0
@@ -3364,6 +3458,7 @@ ScriptedImporter:
       spriteId: de31e7f721e9fe640ad6565c91762691
     - name: PlayerCombatAnimations_Frame_94
       frameIndex: 94
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 0
@@ -3372,6 +3467,7 @@ ScriptedImporter:
       spriteId: 4fc26e98e101b704c9eab49e5679fc41
     - name: PlayerCombatAnimations_Frame_95
       frameIndex: 95
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 0
@@ -3380,6 +3476,7 @@ ScriptedImporter:
       spriteId: fefc14b18835c7044bf5e62c074c0a50
     - name: PlayerCombatAnimations_Frame_96
       frameIndex: 96
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3388,6 +3485,7 @@ ScriptedImporter:
       spriteId: 41f938c0bbccd2a41854efeadc939bb5
     - name: PlayerCombatAnimations_Frame_97
       frameIndex: 97
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3396,6 +3494,7 @@ ScriptedImporter:
       spriteId: b78e0ce5e63961148a2f5c4d9be2549e
     - name: PlayerCombatAnimations_Frame_98
       frameIndex: 98
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3404,6 +3503,7 @@ ScriptedImporter:
       spriteId: 5af4402be5717644fb3a95a0f1e79c58
     - name: PlayerCombatAnimations_Frame_99
       frameIndex: 99
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3412,6 +3512,7 @@ ScriptedImporter:
       spriteId: b09ad8cce699bce49a2359a9fcf2bea0
     - name: PlayerCombatAnimations_Frame_100
       frameIndex: 100
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3420,6 +3521,7 @@ ScriptedImporter:
       spriteId: a09e96fd9d02ffb46a627a2e7808f082
     - name: PlayerCombatAnimations_Frame_101
       frameIndex: 101
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3428,6 +3530,7 @@ ScriptedImporter:
       spriteId: 1baa942f5decfdd489414a8d694ee6b3
     - name: PlayerCombatAnimations_Frame_102
       frameIndex: 102
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3436,6 +3539,7 @@ ScriptedImporter:
       spriteId: 31dffa0702f898a40ae086216423bfa8
     - name: PlayerCombatAnimations_Frame_103
       frameIndex: 103
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3444,6 +3548,7 @@ ScriptedImporter:
       spriteId: 4fac3fb956a14b14594ba1bb58f31c2c
     - name: PlayerCombatAnimations_Frame_104
       frameIndex: 104
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3452,6 +3557,7 @@ ScriptedImporter:
       spriteId: 007a906183fb87b4882835b2eba2f546
     - name: PlayerCombatAnimations_Frame_105
       frameIndex: 105
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3460,6 +3566,7 @@ ScriptedImporter:
       spriteId: 415597fdd6bf82a44a17a9ec2d299f8b
     - name: PlayerCombatAnimations_Frame_106
       frameIndex: 106
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3468,6 +3575,7 @@ ScriptedImporter:
       spriteId: 56917ba118b23904cbe2fff04f535040
     - name: PlayerCombatAnimations_Frame_107
       frameIndex: 107
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 0
@@ -3476,6 +3584,7 @@ ScriptedImporter:
       spriteId: 810b23d36fed35e4da4d89b85aeefaf0
     - name: PlayerCombatAnimations_Frame_108
       frameIndex: 108
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -3484,6 +3593,7 @@ ScriptedImporter:
       spriteId: 73c266e0b4db1f143a7bdf2bfe5a955c
     - name: PlayerCombatAnimations_Frame_109
       frameIndex: 109
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 0
@@ -3492,6 +3602,7 @@ ScriptedImporter:
       spriteId: 536ef9fa2fce75448a3d2c8e4132bc71
     - name: PlayerCombatAnimations_Frame_110
       frameIndex: 110
+      additiveSortOrder: 0
       cellRect:
         x: 40
         y: 0
@@ -3500,6 +3611,7 @@ ScriptedImporter:
       spriteId: e2cc80d7a4d2dfd4e9afc9981f758aff
     - name: PlayerCombatAnimations_Frame_111
       frameIndex: 111
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 0
@@ -3508,6 +3620,7 @@ ScriptedImporter:
       spriteId: 001d1c78e550df844ab27f4283b1a24e
     - name: PlayerCombatAnimations_Frame_112
       frameIndex: 112
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -3516,6 +3629,7 @@ ScriptedImporter:
       spriteId: 3645fc8c6b1bb9b48a4b5b4b639d6180
     - name: PlayerCombatAnimations_Frame_113
       frameIndex: 113
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 0
@@ -3524,6 +3638,7 @@ ScriptedImporter:
       spriteId: 8b6fd5c35064ee642b822f940b828e34
     - name: PlayerCombatAnimations_Frame_114
       frameIndex: 114
+      additiveSortOrder: 0
       cellRect:
         x: 37
         y: 0
@@ -3532,6 +3647,7 @@ ScriptedImporter:
       spriteId: f84448bd476604a42950f63fbc3251df
     - name: PlayerCombatAnimations_Frame_115
       frameIndex: 115
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 0
@@ -3540,6 +3656,7 @@ ScriptedImporter:
       spriteId: b2f1c113f1299a74e83d56111a94e90f
     - name: PlayerCombatAnimations_Frame_116
       frameIndex: 116
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 0
@@ -3548,6 +3665,7 @@ ScriptedImporter:
       spriteId: a02b39be86afaa5408c22953f36b5c91
     - name: PlayerCombatAnimations_Frame_117
       frameIndex: 117
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 0
@@ -3556,6 +3674,7 @@ ScriptedImporter:
       spriteId: 3ce27945ec9109d428b9ecb70e4dd510
     - name: PlayerCombatAnimations_Frame_118
       frameIndex: 118
+      additiveSortOrder: 0
       cellRect:
         x: 33
         y: 0
@@ -3564,6 +3683,7 @@ ScriptedImporter:
       spriteId: 9f295febc44ed8d449cec50219d79340
     - name: PlayerCombatAnimations_Frame_119
       frameIndex: 119
+      additiveSortOrder: 0
       cellRect:
         x: 32
         y: 0
@@ -3572,6 +3692,7 @@ ScriptedImporter:
       spriteId: 1f72ef25219e0144cb002e0f94227466
     - name: PlayerCombatAnimations_Frame_120
       frameIndex: 120
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 0
@@ -3580,6 +3701,7 @@ ScriptedImporter:
       spriteId: 9b9d71dae87c44b43a3b86399a87b5cd
     - name: PlayerCombatAnimations_Frame_121
       frameIndex: 121
+      additiveSortOrder: 0
       cellRect:
         x: 34
         y: 0
@@ -3588,6 +3710,7 @@ ScriptedImporter:
       spriteId: b089e96d50045054bb242137739cdcee
     - name: PlayerCombatAnimations_Frame_122
       frameIndex: 122
+      additiveSortOrder: 0
       cellRect:
         x: 41
         y: 0
@@ -3596,6 +3719,7 @@ ScriptedImporter:
       spriteId: 31f5995fd61ca6b44b0329057e2c16f2
     - name: PlayerCombatAnimations_Frame_123
       frameIndex: 123
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 25

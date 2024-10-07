@@ -492,6 +492,7 @@ ScriptedImporter:
     cells:
     - name: Weapons_Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 37
@@ -500,6 +501,7 @@ ScriptedImporter:
       spriteId: f19647667d35cd741878a1958cb645aa
     - name: Weapons_Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 42
         y: 22
@@ -508,6 +510,7 @@ ScriptedImporter:
       spriteId: f0545f76b47f32c4e83dd40832f5c94d
     - name: Weapons_Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 53
         y: 21
@@ -516,6 +519,7 @@ ScriptedImporter:
       spriteId: fe44d5cde69ab9448858fa0ff03af8dd
     - name: Weapons_Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 56
         y: 26
@@ -524,6 +528,7 @@ ScriptedImporter:
       spriteId: 61009d7f086925943b98878e9e884248
     - name: Weapons_Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 51
         y: 25
@@ -532,6 +537,7 @@ ScriptedImporter:
       spriteId: cea3b3f2019874f4a97d46eee5d1329a
     - name: Weapons_Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 50
         y: 27
@@ -540,6 +546,7 @@ ScriptedImporter:
       spriteId: bcc8f0f9edb93084aa3c14284251b572
     - name: Weapons_Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 45
         y: 29
@@ -548,6 +555,7 @@ ScriptedImporter:
       spriteId: 1b6e048d33e7ef74595b5c0621ca8ec8
     - name: Weapons_Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 50
         y: 27
@@ -556,6 +564,7 @@ ScriptedImporter:
       spriteId: 65da0956fe93e694ab0aea697f73b26b
     - name: Weapons_Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 45
         y: 29
@@ -564,6 +573,7 @@ ScriptedImporter:
       spriteId: 1b5f0369ce424c04ca17601a5243bbe7
     - name: Weapons_Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 50
         y: 27
@@ -572,6 +582,7 @@ ScriptedImporter:
       spriteId: 32a3d50b35662f641a03fee61150132f
     - name: Weapons_Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 45
         y: 29
@@ -580,6 +591,7 @@ ScriptedImporter:
       spriteId: 46e95b684a92fac438a96c2309716c91
     - name: Weapons_Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 31
@@ -588,6 +600,7 @@ ScriptedImporter:
       spriteId: 1513812b8e3597342b8fecc191d027d1
     - name: Weapons_Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 39
         y: 25
@@ -596,6 +609,7 @@ ScriptedImporter:
       spriteId: 3a1ddcbbfec64fc46a6867d0444661b2
     - name: Weapons_Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 38
         y: 25
@@ -604,6 +618,7 @@ ScriptedImporter:
       spriteId: 375ac1a177396b945b7c57f2bc6094d9
     - name: Weapons_Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 36
         y: 25
@@ -612,6 +627,7 @@ ScriptedImporter:
       spriteId: 29f94bb3b6b139949bac1a77e8d11301
     - name: Weapons_Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 34
         y: 25
@@ -620,6 +636,7 @@ ScriptedImporter:
       spriteId: 6496fea1d6ba80b429c8b01d5ab2306d
     - name: Weapons_Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 44
         y: 38
@@ -628,6 +645,7 @@ ScriptedImporter:
       spriteId: 286bbc8cd044adb419b67f313a35740e
     - name: Weapons_Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 43
         y: 38
